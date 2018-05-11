@@ -1,0 +1,28 @@
+{
+  "name": "i18n",
+  "version": "0.0.0",
+  "description": "Simple translation module with json storage",
+  "main": "distrib/i18n.min.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylvain59650/i18n.js.git"
+  },
+  "keywords": [
+    "i18n"
+  ],
+  "author": "Sylvain LONGEPEE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sylvain59650/i18n.js/issues"
+  },
+  "homepage": "https://github.com/Sylvain59650/i18n.js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-debug": "^3.2.0",
+    "gulp-watch": "^5.0.0"
+  }
+}
